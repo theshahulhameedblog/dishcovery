@@ -1,10 +1,10 @@
-# Dishcovery Support
+# DishcoveryNow Support
 
-Welcome to Dishcovery Support! We're here to help you get the most out of your culinary translation experience.
+Welcome to DishcoveryNow Support! We're here to help you get the most out of your culinary translation experience.
 
 ## Quick Start Guide
 
-### How to Use Dishcovery
+### How to Use DishcoveryNow
 
 1. **Grant Permissions**: Allow camera and photo library access when prompted
 2. **Capture Menu**: Tap the camera button to take a photo of any restaurant menu
@@ -16,30 +16,30 @@ Welcome to Dishcovery Support! We're here to help you get the most out of your c
 
 ### General Questions
 
-**Q: What languages does Dishcovery support?**
-A: Dishcovery can detect and translate menus from most major languages including Spanish, French, German, Italian, Portuguese, Japanese, Chinese, Korean, Arabic, Thai, and many more. You can choose your preferred translation language in Settings.
+**Q: What languages does DishcoveryNow support?**
+A: DishcoveryNow can detect and translate menus from most major languages including Spanish, French, German, Italian, Portuguese, Japanese, Chinese, Korean, Arabic, Thai, and many more. You can choose your preferred translation language in Settings.
 
 **Q: Do I need an internet connection?**
-A: Yes, Dishcovery requires an active internet connection to process menu images and fetch nutritional data.
+A: Yes, DishcoveryNow requires an active internet connection to process menu images and fetch nutritional data.
 
-**Q: Is Dishcovery free?**
-A: [Update with your pricing model: "Yes, Dishcovery is completely free!" or "Dishcovery offers X free scans per day/month, with premium options available."]
+**Q: Is DishcoveryNow free?**
+A: [Update with your pricing model: "Yes, DishcoveryNow is completely free!" or "DishcoveryNow offers X free scans per day/month, with premium options available."]
 
-**Q: What countries/regions is Dishcovery available in?**
-A: Dishcovery is available worldwide on the iOS App Store.
+**Q: What countries/regions is DishcoveryNow available in?**
+A: DishcoveryNow is available worldwide on the iOS App Store.
 
 ### Camera & Photo Issues
 
 **Q: Why can't I take photos?**
-A: Make sure you've granted Dishcovery camera permissions:
+A: Make sure you've granted DishcoveryNow camera permissions:
 1. Go to iOS Settings > Privacy & Security > Camera
-2. Find "Dishcovery" and toggle it ON
+2. Find "DishcoveryNow" and toggle it ON
 3. Restart the app
 
 **Q: Why can't I select photos from my library?**
 A: Check photo library permissions:
 1. Go to iOS Settings > Privacy & Security > Photos
-2. Find "Dishcovery" and select "All Photos" or "Selected Photos"
+2. Find "DishcoveryNow" and select "All Photos" or "Selected Photos"
 3. Restart the app
 
 **Q: My photos are blurry or not processing correctly**
@@ -75,7 +75,7 @@ A: While our AI is highly accurate, occasional errors can occur with:
 If you notice an error, try retaking the photo with better lighting or a clearer angle.
 
 **Q: Can I save my translation results?**
-A: Currently, Dishcovery shows your most recent scan. We're working on adding a history feature in future updates!
+A: Currently, DishcoveryNow shows your most recent scan. We're working on adding a history feature in future updates!
 
 ### Nutrition & Allergen Information
 
@@ -95,21 +95,89 @@ A: Allergen detection is based on:
 
 When uncertain, we err on the side of caution and omit allergen tags rather than provide potentially incorrect information. **Always verify with restaurant staff if you have severe allergies.**
 
-**Q: I have a severe food allergy. Can I rely on Dishcovery?**
-A: **No.** Dishcovery is a helpful guide, but **should not be used as the sole source** for allergen information. Always:
+**Q: I have a severe food allergy. Can I rely on DishcoveryNow?**
+A: **No.** DishcoveryNow is a helpful guide, but **should not be used as the sole source** for allergen information. Always:
 - Confirm with restaurant staff
 - Ask about cross-contamination
 - Read menu disclaimers
 - Inform servers of severe allergies
+
+---
+
+## ⚠️ Important Nutritional Information Disclaimer
+
+### Please Read Carefully
+
+**DishcoveryNow provides nutritional and allergen information for informational purposes only. This information is NOT a substitute for professional medical advice or direct consultation with food establishments.**
+
+### Data Sources
+
+Our nutritional information comes from:
+- **Nutritionix**: Third-party commercial food database
+- **USDA FoodData Central**: U.S. government nutritional database
+- **AI Estimates**: Machine learning-based approximations when exact data is unavailable
+
+### Accuracy Limitations
+
+**Important:** Nutritional values shown in DishcoveryNow are estimates based on standardized recipes and average serving sizes. Actual nutritional content can vary significantly due to:
+
+- Different preparation methods used by restaurants
+- Ingredient substitutions and quality variations
+- Portion size differences
+- Regional recipe variations
+- Seasonal ingredient changes
+- Cooking techniques and equipment
+
+### Allergen Information Warning
+
+**CRITICAL FOR ALLERGY SUFFERERS:**
+
+Allergen information provided by DishcoveryNow is based on:
+- AI analysis of dish descriptions
+- Common recipe knowledge
+- General ingredient patterns
+
+**This information may NOT be accurate or complete.**
+
+If you have food allergies, intolerances, or dietary restrictions:
+- ✅ **ALWAYS verify allergen information directly with the restaurant**
+- ✅ **Inform servers and kitchen staff of your allergies**
+- ✅ **Ask about cross-contamination risks**
+- ✅ **Request to see ingredient lists when available**
+- ❌ **DO NOT rely solely on app-provided allergen information**
+
+### Legal Disclaimer
+
+**No Warranties:** We make no representations or warranties regarding the accuracy, completeness, or reliability of nutritional or allergen information.
+
+**No Liability:** We are not responsible for any adverse health effects, allergic reactions, or dietary consequences resulting from your use of information provided in DishcoveryNow.
+
+**Not Medical Advice:** This app does NOT provide medical, health, or dietary advice. Consult qualified healthcare professionals for personalized dietary guidance.
+
+**EU Compliance:** For users in the European Union, this app is not a replacement for mandatory allergen labeling under EU Regulation No. 1169/2011 (Food Information to Consumers). Restaurant establishments remain legally responsible for providing accurate allergen information.
+
+**Third-Party Responsibility:** Nutritional data is provided by independent third-party services (Nutritionix, USDA). We do not independently verify the accuracy of this data.
+
+### Your Responsibility
+
+By using DishcoveryNow, you acknowledge that:
+- Nutritional information is approximate and for general guidance only
+- You will verify critical dietary information with food establishments
+- You use this information at your own risk
+- The app is a translation and information tool, not a medical device
+
+**For your safety: Always ask, always verify, always inform restaurant staff of dietary restrictions.**
+
+---
 
 ### App Issues & Troubleshooting
 
 **Q: The app crashed or froze**
 A: Try these steps:
 1. Force close the app (swipe up from app switcher)
-2. Reopen Dishcovery
+2. Reopen DishcoveryNow
 3. If issues persist, restart your iPhone
-4. Update to the latest version of Dishcovery
+4. Update to the latest version of DishcoveryNow
 5. Contact support if problems continue
 
 **Q: "Processing failed" error**
@@ -127,7 +195,7 @@ A: Try:
 
 **Q: How do I change the translation language?**
 A:
-1. Open Dishcovery
+1. Open DishcoveryNow
 2. Tap the Settings button (⚙️) on the home screen
 3. Select your preferred target language
 4. Your choice is saved automatically
@@ -194,7 +262,7 @@ Having trouble? We're here to help!
 
 When contacting support, please include:
 - Your iOS version
-- Dishcovery app version (Settings > About)
+- DishcoveryNow app version (Settings > About)
 - Description of the issue
 - Screenshots (if applicable)
 
@@ -206,7 +274,7 @@ When contacting support, please include:
 
 ## Credits
 
-Dishcovery is powered by:
+DishcoveryNow is powered by:
 - **OpenAI GPT-4 Vision**: Advanced menu recognition and translation
 - **Nutritionix**: Comprehensive nutritional database
 - **USDA FoodData Central**: Government nutrition data
@@ -214,6 +282,6 @@ Dishcovery is powered by:
 
 ---
 
-**Thank you for using Dishcovery! We hope it enhances your dining adventures around the world.**
+**Thank you for using DishcoveryNow! We hope it enhances your dining adventures around the world.**
 
-Version 1.0.0 | © 2025 Dishcovery | Made with ❤️ for food lovers everywhere
+Version 1.0.0 | © 2025 DishcoveryNow | Made with ❤️ for food lovers everywhere

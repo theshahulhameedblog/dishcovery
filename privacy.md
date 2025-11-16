@@ -1,16 +1,16 @@
-# Privacy Policy for Dishcovery
+# Privacy Policy for DishcoveryNow
 
 **Effective Date:** November 9, 2025
 **Last Updated:** November 9, 2025
 
 ## Introduction
 
-Welcome to Dishcovery ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how our mobile application collects, uses, and safeguards your information.
+Welcome to DishcoveryNow ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how our mobile application collects, uses, and safeguards your information.
 
 ## Information We Collect
 
 ### Camera and Photo Library Access
-- **Camera Access**: Dishcovery requires camera access to capture photos of restaurant menus for translation purposes.
+- **Camera Access**: DishcoveryNow requires camera access to capture photos of restaurant menus for translation purposes.
 - **Photo Library Access**: The app may access your photo library to allow you to select previously taken menu photos.
 
 ### Menu Image Processing
@@ -55,7 +55,7 @@ The menu images you provide are used solely for:
 
 We implement industry-standard security measures:
 - **HTTPS Encryption**: All data transmitted between your device and our servers uses TLS encryption
-- **No Account Required**: Dishcovery does not require account creation or login
+- **No Account Required**: DishcoveryNow does not require account creation or login
 - **Minimal Data Collection**: We only collect what's necessary for core functionality
 
 ## Your Rights
@@ -66,9 +66,54 @@ You have the right to:
 - **Opt-Out**: Stop using the app at any time
 - **Control**: Revoke camera/photo permissions in iOS Settings
 
+## Nutritional Information Disclaimer
+
+### Data Sources and Accuracy
+
+DishcoveryNow provides nutritional information sourced from third-party databases and AI-generated estimates. This information is provided for general informational and educational purposes only.
+
+**Important Limitations:**
+- Nutritional data is obtained from external sources including Nutritionix, USDA FoodData Central, and AI estimations
+- Values are based on standardized recipes and average serving sizes
+- Actual nutritional content may vary significantly based on:
+  - Restaurant preparation methods
+  - Ingredient substitutions
+  - Portion sizes
+  - Regional variations in recipes
+  - Cooking techniques
+
+**No Medical or Dietary Advice:**
+- DishcoveryNow does NOT provide medical, health, or dietary advice
+- Nutritional information should NOT be used as a substitute for professional medical or nutritional consultation
+- We make no representations or warranties regarding the accuracy, completeness, or reliability of nutritional data
+
+**No Liability:**
+- We are not responsible for any adverse health effects, allergic reactions, or dietary consequences resulting from reliance on nutritional information provided in the app
+- Users with food allergies, intolerances, or special dietary requirements MUST verify all information directly with the restaurant or food establishment
+- Allergen information is provided as a general guide only and may not reflect actual ingredients used by specific restaurants
+
+**Third-Party Data:**
+- Nutritional information is provided by third-party services (Nutritionix, USDA) and is subject to their respective terms of service and accuracy limitations
+- We do not independently verify the accuracy of third-party nutritional data
+- AI-generated estimates are approximations and should be treated as rough guidelines only
+
+**EU Food Information Regulation (FIC) Compliance:**
+- This app is not intended to replace mandatory food labeling requirements under EU Regulation No. 1169/2011
+- Restaurant establishments remain solely responsible for providing accurate allergen and nutritional information to consumers
+- Users in the European Union should always request allergen information directly from food businesses as required by law
+
+**User Responsibility:**
+For your safety and health, you should:
+- Always verify allergen information with restaurant staff
+- Consult healthcare professionals for dietary advice
+- Not rely solely on app-provided nutritional data for medical decisions
+- Understand that nutritional values are estimates and may differ from actual products
+
+By using DishcoveryNow's nutritional features, you acknowledge and accept these limitations and agree to use the information at your own risk.
+
 ## Children's Privacy
 
-Dishcovery is suitable for users of all ages (4+). We do not knowingly collect personal information from children under 13.
+DishcoveryNow is suitable for users of all ages (4+). We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Privacy Policy
 
@@ -95,7 +140,7 @@ If you have questions or concerns about this Privacy Policy or our data practice
 
 ## Consent
 
-By using Dishcovery, you consent to this Privacy Policy and agree to its terms.
+By using DishcoveryNow, you consent to this Privacy Policy and agree to its terms.
 
 ---
 
@@ -131,4 +176,4 @@ By using Dishcovery, you consent to this Privacy Policy and agree to its terms.
 
 ---
 
-**This is a legally binding document. If you do not agree with this Privacy Policy, please do not use Dishcovery.**
+**This is a legally binding document. If you do not agree with this Privacy Policy, please do not use DishcoveryNow.**
