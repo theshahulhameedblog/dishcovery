@@ -134,8 +134,8 @@ If you are a California resident, you have additional rights under the Californi
 
 If you have questions or concerns about this Privacy Policy or our data practices, please contact us:
 
-**Email**: [your-email@example.com]
-**Website**: [your-website.com]
+**Email**: [dishcoverytech@gmail.com]
+**Website**: [https://theshahulhameedblog.github.io/dishcovery/]
 **Developer**: Shahul Hameed
 
 ## Consent

@@ -140,11 +140,11 @@ Allergen information provided by DishcoveryNow is based on:
 **This information may NOT be accurate or complete.**
 
 If you have food allergies, intolerances, or dietary restrictions:
-- ✅ **ALWAYS verify allergen information directly with the restaurant**
-- ✅ **Inform servers and kitchen staff of your allergies**
-- ✅ **Ask about cross-contamination risks**
-- ✅ **Request to see ingredient lists when available**
-- ❌ **DO NOT rely solely on app-provided allergen information**
+- **ALWAYS verify allergen information directly with the restaurant**
+- **Inform servers and kitchen staff of your allergies**
+- **Ask about cross-contamination risks**
+- **Request to see ingredient lists when available**
+- **DO NOT rely solely on app-provided allergen information**
 
 ### Legal Disclaimer
 
@@ -220,7 +220,7 @@ We'd love to hear from you! If you have:
 - General feedback
 - Questions not answered here
 
-Please contact us at: **[your-email@example.com]**
+Please contact us at: **[dishcoverytech@gmail.com]**
 
 ### Upcoming Features
 
@@ -256,7 +256,7 @@ We're working on exciting new features:
 
 Having trouble? We're here to help!
 
-**Email**: [your-email@example.com]
+**Email**: [dishcoverytech@gmail.com]
 **Response Time**: Within 24-48 hours
 **Developer**: Shahul Hameed
 
